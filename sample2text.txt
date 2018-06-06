@@ -1,3 +1,7 @@
 Git commands even a monkey can understand
 add: Register a change in an index
+<<<<<<< HEAD
 commit: Save the status of an index
+=======
+pull: Obtain the content of the remote repository
+>>>>>>> 903e0cc707620f619954809371b934dacfa7b437
